@@ -32,7 +32,6 @@ unit dxPreviewHandler;
 interface
 
 uses
-  dxTemelDialoglar, { DİKKAT: Show_Error ve Show_Message prosedürleri için gereken kütüphanedir. Siz bu satırı silebilir, ilgili prosedürler için de ShowMessage kullanabilirsiniz }
   Vcl.StdCtrls,
   Registry, ComObj, ActiveX, AxCtrls, ShlObj,
   Windows, Classes, Controls, SysUtils;
