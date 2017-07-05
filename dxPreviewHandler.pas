@@ -42,6 +42,7 @@
 ///  begin
 ///    DriveComboBox1.DirList := DirectoryListBox1;
 ///    DirectoryListBox1.FileList := FileListBox1;
+///    dxPreviewHandler1.Control := Panel1;
 ///  end;
 ///
 ///  procedure TForm1.FileListBox1Click(Sender: TObject);
