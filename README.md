@@ -1,5 +1,5 @@
 # PreviewHandler-VCL-
-Simple Preview Handler Component for VCL applications on Win32
+Simple Preview Handler Component for VCL applications on Win32 by Uğur PARLAYAN
 
 ###### for example
 
